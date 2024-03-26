@@ -1,0 +1,25 @@
+{
+    "articles": [
+      {
+        "title": "Kate rumours linked to Russian disinformation",
+        "description": "The Princess of Wales was the subject of rumours and conspiracy theories on social media",
+        "body_of_article": ""
+      },
+      {
+        "title": "Sunshine or showers for Easter?",
+        "description": "Spring flowers in the strengthening sunshine as seen by BBC Weather Watcher, John Bradburn in Bakewell, Derbyshire.",
+        "body_of_article": "The trees are in bloom, fresh shoots are emerging from the ground, the evenings are getting lighter, and the clocks go forward an hour on Saturday night. After an especially wet few months for some, you may be forgiven for hoping for some drier and more settled weather over the Easter weekend. But first a quick reality check …it is still only March! It may be the first long bank holiday weekend of the year, but we are still in that transition period between winter and summer and the weather can lurch from one extreme to the other. In 2013, Easter Sunday fell on the 31st March. The day began with a temperature of -12.5C at Braemar, Aberdeenshire, making it the coldest Easter on record. A few years earlier, in 2010, a snow depth of 36cm lay on the ground at Strathdearn in Invernesshire on Good Friday. This may be a good time to bring up the fact that when Easter falls in March, the chance of snow is greater than it is at Christmas."
+      },
+      {
+        "title": "Managing Stress for Better Health",
+        "description": "Discover effective strategies to manage stress, such as meditation, exercise, adequate sleep, and fostering social connections, to improve overall well-being.",
+        "body_of_article": ""
+      },
+      {
+        "title": "The Importance of Adequate Sleep",
+        "description": "This article explores the significance of sleep for health, discussing its role in cognitive function, immune system regulation, and overall physical and mental health.",
+        "body_of_article": ""
+      }
+    ]
+  }
+  
