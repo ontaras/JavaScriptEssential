@@ -3,7 +3,7 @@ function showweatherDetails(event) {
 
      const lat = document.getElementById('lat').value;
      const lon = document.getElementById('lon').value;
-      const apiKey = 'e4f8babacbb4ee3834ff6f96869fffba';
+      const apiKey = ''; //add your key
       const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=metric`;
 
       fetch(apiUrl)
